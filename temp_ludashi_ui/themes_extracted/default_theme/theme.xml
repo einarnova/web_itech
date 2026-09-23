@@ -1,0 +1,189 @@
+﻿<?xml version="1.0"?>
+<themes>
+    <window>
+		<default icon_point="4,4">
+			<canvas normal="0xff77cb00" image="" fill="0"/>
+			<border normal="0xff638c39" width="1" inner="0xffffffff"/>
+			<font face="宋体" color="0x00b5e513" size="8" bold="0" italic="0" underline="0"/>
+			<shadow border="5,3,5,7" image="./window_shadow.png"/>
+			<caption height="50" color="0xffffffff"/>
+			<system_button offset_pos="6" cap="1" top="0">
+				<close width="27" height="22" image="./Common/Image/sys_button_close.png"/>
+				<min width="27" height="22" image="./Common/Image/sys_button_min.png"/>
+				<max width="27" height="22" image="./Common/Image/sys_button_max.png" retore_image="./Common/Image/sys_button_restore.png"/>
+			</system_button>
+		</default>
+		<popupWindow icon_point="4,4">
+			<canvas normal="0xfff6f6f6" image="Common/Image/background_mainwnd.png" fill="0"/>
+			<border normal="0xff638c39" width="0" inner="0xffffffff"/>
+			<font face="宋体" color="0x00b5e513" size="8" bold="0" italic="0" underline="0"/>
+			<shadow border="5,3,5,7" image="Common\Image\window_shadow.png"/>
+			<caption height="29" color="0xff4ea705"/>
+			<system_button offset_pos="6" cap="1" top="0">
+				<close width="27" height="22" image="Common/Image/sys_button_close.png"/>
+				<min width="27" height="22" image="Common/Image/sys_button_min.png"/>
+				<max width="27" height="22" image="Common/Image/sys_button_max.png" retore_image="Common/Image/sys_button_restore.png"/>
+			</system_button>
+		</popupWindow>
+	</window>
+	<button>
+		
+		<default>
+			<canvas normal="0xffffffff" shine="0x7fffffff"/>
+			<border normal="0xffffffff" width="1" inner="0xffc0c0c0"/>
+			<font face="微软雅黑" color="0x00000000" size="8" bold="0" italic="0" underline="0"/>
+		</default>
+		
+	</button>
+	<picture>
+		<default>
+			<canvas normal="0xffffffff"/>
+			<border normal="0xff000000" width="1" inner="0xfff5f5f5" shine="0xff00008b"/>
+		</default>
+	</picture>
+	<combobox>
+		<default>
+			<canvas normal="0x0000ff00" hot="0x00ffffff" selected="0x00ffffff">
+				<dropbox normal="0x0000dee5" hot="0x00e5eddc" selected="0x00000000"/>
+				<triangle normal="0xffffffff"/>
+			</canvas>
+			<border normal="0xffffffff" width="1" inner="0xffffffff">
+				<drop_border normal="0x00000000" hot="0xffcdcdcd" selected="0xffccdee5"/>
+			</border>
+			<font face="宋体" color="0x00b5e513" size="9" bold="0" italic="0" underline="0"/>
+		</default>
+	</combobox>
+	<text>
+		<default>
+			<canvas normal="0x00ffffff"/>
+			<border width="0" outer="0xff60c8fd" normal="0xffa4c2d4"/>
+			<font face="微软雅黑" color="0x00000000" size="14" bold="0" italic="0" underline="0"/>
+		</default>
+	</text>
+	<progress>
+		<default>
+			<canvas normal="0xffffffff" block_begin_color="0xff00ff00" block_end_color="0xffffff00" caption_color="0xff000000" non_block_begin_color="0xcdcdcdcd" non_block_end_color="0xcdcdcdcd"/>
+			<border normal="0xfffcd208" width="1"/>
+			<font face="宋体" color="0x00b5e513" size="9" bold="0" italic="0" underline="0"/>
+		</default>
+	</progress>
+	<tabpage>
+		<default>
+			<canvas normal="0xffffffff" hot="0xffffffff" selected="0xf1ffffff" tab_focus="0xffffa500" radius="0" overlap="0" tab_focus_height="4"/>
+			<border normal="0xff262626" width="1" hot="0xff808080" selected="0xff808080"/>
+			<font face="宋体" color="0x00b5e513" size="16" bold="1" italic="0" underline="0"/>
+		</default>
+		
+	</tabpage>
+	<rich_list>
+		<default>
+			<canvas normal="0xcc6a8464"/>
+			<border normal="0xffffffff" width="1" gridline="0x1fc0c0c0"/>
+			<select outer="0xffc0c0c0" inner="0xffc0c0c0" start="0xffa2e098" end="0xffa2e098"/>
+			<hover outer="0xff465842" inner="0xff465842"/>
+			<sub_select/>
+		</default>
+	</rich_list>
+	<static>	
+		<default>
+			<canvas normal="0xff5e5e5e"/>
+			<border normal="0xff400040" width="1"/>
+			<font face="微软雅黑" color="0x00ffffff" size="8" bold="1" italic="0" underline="0"/>
+			<caption normal="0xffffffff" hot="0xffffffff" selected="0xffffffff" link_color="0xffffffff"/>
+		</default>
+		<popup_static_normal>
+			<canvas normal="0x00ffffff"/>
+			<border normal="0xff000000" width="1"/>
+			<font face="微软雅黑" color="0x00000000" size="9" bold="0" italic="0" underline="0"/>
+			<caption normal="0xff000000" hot="0xff000000" selected="0xff000000" link_color="0xff000000"/>
+		</popup_static_normal>
+		<safe_title>
+			<canvas normal="0x003a6026"/>
+			<border normal="0xff638c39" width="1"/>
+			<font face="微软雅黑" color="0x00ffffff" size="8" bold="0" italic="0" underline="0"/>
+			<caption normal="0xffffffff" hot="0xffffffff" selected="0xffffffff" link_color="0xff000000"/>
+		</safe_title>
+	</static>
+	<scrollbar>
+		<default>
+			<canvas normal="0xffffffff" shine="0xffdbe7ee" hot="0xffe4e7ed" selected="0xffdbe7ee">
+				<arrow normal="0x00e7e7e7" arrow_size="12"/>
+				<track normal="0xffe4e7ed" background="0x00ffffff" shine="0xdfffffff" background_size="6" line="0x00a3adbb"/>
+			</canvas>
+			<border normal="0x00c9c9c9" width="1" inner="0x00b5b4b3" hot="0x00c9c9c9" selected="0x00c9c9c9">
+				<track normal="0xffbac3cc" hot="0xffbac3cc" selected="0xffbac3cc"/>
+				<arrow normal="0x00780045">
+					<triangle normal="0x0b00000b" hot="0x00004b4d" selected="0x042b0720"/>
+				</arrow>
+			</border>
+			<scroll_images arrow_ul="" arrow_dr="" scroll_bg="IDI_SCROLLBAR_BG" thumb_ul="IDI_SCROLLBAR_THUMB_UP" thumb_dr="IDI_SCROLLBAR_THUMB_DOWN" thumb_bg="IDI_SCROLLBAR_THUMB" thumb_center="IDI_SCROLLBAR_THUMB_CENTER"/>
+		</default>
+		<advtools_list_scroll>
+			<canvas normal="0xffffffff" shine="0xffdbe7ee" hot="0xffe4e7ed" selected="0xffdbe7ee">
+				<arrow normal="0x00e7e7e7" arrow_size="12"/>
+				<track normal="0xffe4e7ed" background="0x00ffffff" shine="0xdfffffff" background_size="6" line="0x00a3adbb"/>
+			</canvas>
+			<border normal="0x00c9c9c9" width="1" inner="0x00b5b4b3" hot="0x00c9c9c9" selected="0x00c9c9c9">
+				<track normal="0xffbac3cc" hot="0xffbac3cc" selected="0xffbac3cc"/>
+				<arrow normal="0x00780045">
+					<triangle normal="0x0b00000b" hot="0x00004b4d" selected="0x042b0720"/>
+				</arrow>
+			</border>
+			<scroll_images arrow_ul="" arrow_dr="" scroll_bg="IDI_SCROLLBAR_BG" thumb_ul="IDI_SCROLLBAR_THUMB_UP" thumb_dr="IDI_SCROLLBAR_THUMB_DOWN" thumb_bg="IDI_SCROLLBAR_THUMB" thumb_center="IDI_SCROLLBAR_THUMB_CENTER"/>
+		</advtools_list_scroll>
+		<list_scroll_new>
+			<canvas normal="0xffffffff" shine="0xffdbe7ee" hot="0xffe4e7ed" selected="0xffdbe7ee">
+				<arrow normal="0x00e7e7e7" arrow_size="12"/>
+				<track normal="0xffe4e7ed" background="0x00ffffff" shine="0xdfffffff" background_size="6" line="0x00a3adbb"/>
+			</canvas>
+			<border normal="0x00c9c9c9" width="1" inner="0x00b5b4b3" hot="0x00c9c9c9" selected="0x00c9c9c9">
+				<track normal="0xffbac3cc" hot="0xffbac3cc" selected="0xffbac3cc"/>
+				<arrow normal="0x00780045">
+					<triangle normal="0x0b00000b" hot="0x00004b4d" selected="0x042b0720"/>
+				</arrow>
+			</border>
+			<scroll_images arrow_ul="" arrow_dr="" scroll_bg="IDI_EXAMINE_SCROLLBAR_BG" thumb_ul="" thumb_dr="" thumb_bg="IDI_EXAMINE_SCROLLBAR_THUMB" thumb_center=""/>
+		</list_scroll_new>
+	</scrollbar>
+	<panel>
+		
+		<defalt>
+			<canvas normal="0x00ffffff" radius="0" angle="90"/>
+			<border normal="0xff000000" width="1" inner="0x01e07c0c" hot="0x00000000" selected="0x01d11090"/>
+			<vscroll_theme scrollbar_theme=""/>
+		</defalt>
+		
+		<PopupWnd_Client_Bkg>
+			<canvas normal="0xffffffff" radius="0" angle="90"/>
+			<border normal="0xff000000" width="1" inner="0xcdcdcdcd" hot="0xcdcdcdcd" selected="0xcdcdcdcd"/>
+			<vscroll_theme scrollbar_theme=""/>
+		</PopupWnd_Client_Bkg>
+		
+	</panel>
+	<slider>
+		<default>
+			<canvas normal="0xff8f8f8f" end="0xff7294a5">
+				<thumb start="0x9ffffff" end="0xffdcdcdc" radius="1"/>
+				<elapsed start="0xff013857" end="0x1"/>
+			</canvas>
+			<border normal="0xff808080" width="1" thumb="0x1"/>
+		</default>
+	</slider>
+	<splitter>
+		<default>
+			<canvas normal="0xdeffffff"/>
+			<border normal="0xff" width="1" thumb="0x1"/>
+		</default>
+		<HalfTransparent>
+			<canvas normal="0xdeffffff"/>
+			<border normal="0xff" width="1" thumb="0x1"/>
+		</HalfTransparent>
+	</splitter>
+	<spin>
+		<default>
+			<canvas normal="0x00ffffff"/>
+			<border width="1" normal="0xff000000"/>
+			<font face="微软雅黑" color="0x00000000" size="9" bold="0" italic="0" underline="0"/>
+		</default>
+	</spin>
+</themes>

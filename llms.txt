@@ -1,0 +1,57 @@
+# ITECH - Servicio Técnico Especializado en Lima, Perú
+
+> ITECH es un laboratorio de servicio técnico multimarca en Lima, Perú, especializado en la reparación, diagnóstico de precisión, mantenimiento correctivo/preventivo y cambio de componentes originales para Laptops, Smartphones, Consolas de Videojuegos, Drones e Impresoras.
+
+## Resumen Operativo y Cobertura
+- **Ubicación Principal**: Lima, Perú. Cobertura en Lima Metropolitana (Miraflores, San Isidro, Surco, San Borja, La Molina, Los Olivos, San Miguel, Jesús María, Magdalena, Lince, Cercado de Lima).
+- **Contacto Directo WhatsApp**: +51 900 000 000
+- **Política de Diagnóstico**: Diagnóstico técnico previo sin costo ni compromiso antes de autorizar cualquier reparación.
+- **Garantía**: Garantía por escrito en repuestos y mano de obra en todas las intervenciones (de 3 a 6 meses).
+- **Repuestos**: Repuestos 100% probados y testeados antes de la entrega final.
+
+---
+
+## Catálogo de Páginas y Servicios Especializados
+
+### 1. Laptops y Computadoras Portátiles
+- [Reparación de Laptops HP](https://einarnova.github.io/blog_itech/paginas/reparacion-laptops-hp.html): Soporte para HP Pavilion, Victus, OMEN, Envy, Spectre, ProBook y ZBook. Cambio de pantalla, bisagras, teclado y placa.
+- [Reparación de Laptops Dell](https://einarnova.github.io/blog_itech/paginas/reparacion-laptops-dell.html): Reparación de Dell Inspiron, XPS, Alienware, G-Series, Latitude y Precision. Cortocircuitos, puertos de carga y pantallas OLED.
+- [Reparación de Laptops Asus](https://einarnova.github.io/blog_itech/paginas/reparacion-laptops-asus.html): Especialistas en ROG Strix, Zephyrus, TUF Gaming, Zenbook y Vivobook. Mantenimiento térmico con metal líquido y bisagras.
+- [Reparación de Laptops Lenovo](https://einarnova.github.io/blog_itech/paginas/reparacion-laptops-lenovo.html): Soporte para ThinkPad (T, X, P), Legion (5, 7, Pro), LOQ, IdeaPad y Yoga. Reemplazo de pantallas, teclados y reballing.
+- [Reparación de Laptops Acer](https://einarnova.github.io/blog_itech/paginas/reparacion-laptops-acer.html): Reparación de Nitro 5/16/17, Predator Helios/Triton, Swift y Aspire.
+- [Reparación de Laptops MSI](https://einarnova.github.io/blog_itech/paginas/reparacion-laptops-msi.html): Reparación especializada en chasis, bisagras, pantalla y GPU para MSI Katana, Raider, Thin, Cyborg, Vector y Creator.
+- [Reparación de MacBook Apple](https://einarnova.github.io/blog_itech/paginas/reparacion-laptops-apple.html): Reparación de MacBook Air y MacBook Pro (M1, M2, M3, M3 Pro/Max e Intel). Flexgate, pantalla Liquid Retina XDR, teclado y placa lógica.
+- [Reparación de Microsoft Surface](https://einarnova.github.io/blog_itech/paginas/reparacion-laptops-surface.html): Reemplazo de pantalla táctil PixelSense, cambio de batería hinchada y puerto Surface Connect para Surface Pro, Laptop y Studio.
+
+### 2. Celulares y Smartphones
+- [Reparación de Celulares Samsung](https://einarnova.github.io/blog_itech/paginas/reparacion-celulares-samsung.html): Pantallas Dynamic AMOLED 2X, baterías y cámaras para Galaxy Serie S (S20-S24 Ultra), Serie A (A15, A35, A55) y plegables Z Fold / Z Flip.
+- [Reparación de iPhone Apple](https://einarnova.github.io/blog_itech/paginas/reparacion-celulares-apple.html): Cambio de pantalla OLED Super Retina XDR, tapa trasera láser, batería sin mensaje de error y Face ID para iPhone 11 al iPhone 16 Pro Max.
+- [Reparación de Celulares Xiaomi](https://einarnova.github.io/blog_itech/paginas/reparacion-celulares-xiaomi.html): Pantallas AMOLED, puertos de carga hiperrápida y placas para Xiaomi 12/13/14, Redmi Note 11/12/13 y POCO F/X Series.
+- [Reparación de Celulares Motorola](https://einarnova.github.io/blog_itech/paginas/reparacion-celulares-motorola.html): Soporte para Moto G (G14, G54, G84), Motorola Edge (30, 40, 50 Pro/Ultra) y plegables Moto Razr.
+- [Reparación de Celulares Honor](https://einarnova.github.io/blog_itech/paginas/reparacion-celulares-honor.html): Pantallas curvas ultra resistentes, baterías y cámaras para Honor Magic Series, Honor 90/200 y Honor Serie X.
+- [Reparación de Celulares Oppo](https://einarnova.github.io/blog_itech/paginas/reparacion-celulares-oppo.html): Reparación de OPPO Reno 7/8/10/11/12 5G, OPPO Serie A y plegables Find N Flip.
+- [Reparación de Celulares Vivo](https://einarnova.github.io/blog_itech/paginas/reparacion-celulares-vivo.html): Reparación de vivo Serie V (V25, V29, V30 Lite/5G), Serie Y y Serie X con cámaras ZEISS.
+
+### 3. Consolas de Videojuegos
+- [Reparación de PlayStation](https://einarnova.github.io/blog_itech/paginas/reparacion-consolas-playstation.html): Servicio técnico para PS5 (Fat, Slim, Pro), PS4 y PS3. Mantenimiento térmico con metal líquido, cambio de puerto HDMI 2.1, fuente de poder y reparación de drift en mandos DualSense.
+- [Reparación de Nintendo Switch](https://einarnova.github.io/blog_itech/paginas/reparacion-consolas-nintendo.html): Solución de Joy-Con drift con palancas Hall Effect, cambio de pantalla OLED táctil, conector USB-C y chip de gestión de carga M92T36.
+- [Reparación de Xbox](https://einarnova.github.io/blog_itech/paginas/reparacion-consolas-xbox.html): Soporte para Xbox Series X, Series S y Xbox One. Cambio de conector HDMI 2.1, fuente interna de alimentación y reballing de procesador.
+
+### 4. Drones
+- [Reparación de Drones DJI](https://einarnova.github.io/blog_itech/paginas/reparacion-drones-dji.html): Reparación de gimbal 3 ejes, cambio de brazos mecánicos, flex de cámara y calibración de IMU/sensores para DJI Mini 2/3/4 Pro, Air 2S/3, Mavic 3 y Avata FPV.
+- [Reparación de Drones Autel](https://einarnova.github.io/blog_itech/paginas/reparacion-drones-autel.html): Soporte para Autel EVO Nano+, EVO Lite+ y EVO II Pro 6K / Dual Térmico.
+- [Reparación de Drones Fimi](https://einarnova.github.io/blog_itech/paginas/reparacion-drones-fimi.html): Soporte para Fimi X8 SE (2020, 2022 V2, Pro), Fimi X8 Mini y Fimi Manta VTOL.
+- [Reparación de Drones Hubsan](https://einarnova.github.io/blog_itech/paginas/reparacion-drones-hubsan.html): Reparación de Zino Mini Pro, Zino 2+ y Hubsan Ace Pro.
+- [Reparación de Drones Potensic](https://einarnova.github.io/blog_itech/paginas/reparacion-drones-potensic.html): Reparación de Potensic Atom 4K 3 ejes, Atom SE y Dreamer Pro.
+- [Reparación de Drones Syma](https://einarnova.github.io/blog_itech/paginas/reparacion-drones-syma.html): Mantenimiento de motores, engranajes y receptores para Syma X30, X500, X8 y X5.
+
+### 5. Impresoras
+- [Reparación de Impresoras Epson](https://einarnova.github.io/blog_itech/paginas/reparacion-impresoras-epson.html): Limpieza y destape ultrasónico de cabezales, reseteo y cambio de almohadillas de tinta, y cambio de rodillos para EcoTank L3150, L3210, L3250, L4260, L8050.
+- [Reparación de Impresoras HP](https://einarnova.github.io/blog_itech/paginas/reparacion-impresoras-hp.html): Soporte para HP Smart Tank 515/580/750 y HP LaserJet Pro MFP M428.
+- [Reparación de Impresoras Canon](https://einarnova.github.io/blog_itech/paginas/reparacion-impresoras-canon.html): Mantenimiento de MegaTank G2160, G3160, G3170, G6010 y error de absorbedor lleno.
+- [Reparación de Impresoras Brother](https://einarnova.github.io/blog_itech/paginas/reparacion-impresoras-brother.html): Reparación de InkBenefit Tank (DCP-T520W, T720DW) y Láser HL/DCP.
+- [Reparación de Impresoras Xerox](https://einarnova.github.io/blog_itech/paginas/reparacion-impresoras-xerox.html): Mantenimiento de rodillos fusores, unidad de tambor (drum) y fuentes para Phaser y VersaLink.
+- [Reparación de Impresoras Kyocera](https://einarnova.github.io/blog_itech/paginas/reparacion-impresoras-kyocera.html): Mantenimiento de tambor cerámico de larga duración y fusores para ECOSYS y TASKalfa.
+
+### 6. Soporte TI Corporativo y Help Desk para Empresas
+- [Soporte Help Desk y Mantenimiento TI para Empresas](https://einarnova.github.io/blog_itech/paginas/servicios-helpdesk.html): Outsourcing TI, mesa de ayuda remota N1/N2/N3, mantenimiento preventivo de flotas (ThinkPad, Latitude, ProBook, Mac), cableado estructurado Cat 6/6A y servidores en San Isidro, Miraflores, Surco y Lima Metropolitana con SLA desde 15 minutos.

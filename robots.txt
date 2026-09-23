@@ -1,0 +1,38 @@
+# Robots.txt para ITECH - Servicio Técnico Especializado en Perú
+# https://einarnova.github.io/blog_itech/
+
+User-agent: *
+Allow: /
+Allow: /paginas/
+Allow: /style.css
+Allow: /images/
+Allow: /llms.txt
+Allow: /llms-full.txt
+
+# Rastreadores de Motores de Inteligencia Artificial (AEO / GEO)
+User-agent: GPTBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: anthropic-ai
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+User-agent: Applebot
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+# Mapa del sitio oficial
+Sitemap: https://einarnova.github.io/blog_itech/sitemap.xml

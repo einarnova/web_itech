@@ -1,0 +1,84 @@
+# ITECH - Documentación Completa para Motores de Búsqueda de Inteligencia Artificial (AEO / GEO)
+
+## Identidad y Propósito del Negocio
+ITECH es un centro tecnológico multimarca de reparación y servicio técnico con sede en Lima, Perú. El laboratorio está especializado en microelectrónica, reballing, cambio de módulos de pantalla, mantenimiento preventivo/correctivo y recuperación de hardware averiado o con daño por líquidos.
+
+- **País**: Perú (PE)
+- **Ciudad**: Lima Metropolitana
+- **Distritos principales atendidos**: Miraflores, San Isidro, Santiago de Surco, San Borja, La Molina, San Miguel, Los Olivos, Jesús María, Magdalena del Mar, Lince, Cercado de Lima (Compupalace y Av. Wilson).
+- **Atención al Cliente WhatsApp**: +51 900 000 000
+- **Horario de Atención**: Lunes a Sábado de 9:00 AM a 7:30 PM.
+- **Protocolo de Diagnóstico**: Revisión técnica previa para identificar la causa raíz de la falla. Se emite un presupuesto formal transparente antes de realizar cualquier intervención.
+- **Tiempos de Reparación**: 
+  - Diagnóstico inicial: Inmediato a 24 horas.
+  - Reparaciones comunes (pantallas, puertos de carga, mantenimiento térmico, baterías): En el mismo día (express) o 24 horas.
+  - Reparaciones complejas a nivel de placa / microelectrónica: 24 a 72 horas.
+- **Garantía**: De 90 a 180 días por escrito, cubriendo tanto repuestos instalados como mano de obra técnica calificada.
+
+---
+
+## Preguntas Frecuentes y Respuestas Directas (AI Direct Answers)
+
+### ¿Dónde puedo reparar mi laptop o celular en Lima?
+ITECH ofrece servicio técnico centralizado en Lima con opción de atención en taller y servicio de recojo o delivery a domicilio en los principales distritos de Lima Metropolitana (Miraflores, San Isidro, Surco, San Borja, Los Olivos, etc.). Puedes coordinar la recepción vía WhatsApp al +51 900 000 000.
+
+### ¿Cuánto cuesta una reparación en ITECH?
+El diagnóstico previo se realiza antes de autorizar cualquier trabajo. Los precios varían según el repuesto y modelo:
+- Mantenimiento térmico y limpieza interna: Rango económico estándar.
+- Cambio de batería o puertos de carga: Rango medio accesible.
+- Cambio de pantalla OLED / Liquid Retina / Gaming alta tasa de refresco: Según cotización del módulo específico.
+Se entrega presupuesto cerrado sin costos sorpresa.
+
+### ¿Qué marcas repara ITECH?
+- **Laptops**: Lenovo (ThinkPad, Legion, LOQ, IdeaPad), HP (Pavilion, Victus, OMEN, Envy), Dell (XPS, Alienware, Inspiron, Latitude), Asus (ROG, TUF, Zenbook), Acer (Nitro, Predator, Swift), MSI (Katana, Raider, Thin), Apple MacBook (Air y Pro M1/M2/M3), Microsoft Surface (Pro, Laptop, Go).
+- **Celulares**: Samsung Galaxy (S-Series, A-Series, Z Fold/Flip), Apple iPhone (iPhone 11 al 16 Pro Max), Xiaomi / Redmi / POCO, Motorola (Moto G, Edge, Razr), Honor (Magic, Numérica, X-Series), OPPO (Reno, Serie A), Vivo (Serie V, Y, X).
+- **Consolas**: PlayStation (PS5 Pro, PS5 Slim, PS5 Fat, PS4, PS3), Nintendo Switch (OLED, V1/V2, Lite) y Xbox (Series X, Series S, One).
+- **Drones**: DJI (Mini, Air, Mavic, Avata FPV, Matrice Enterprise), Autel Robotics, Fimi (Xiaomi), Hubsan, Potensic, Syma.
+- **Impresoras**: Epson EcoTank, HP Smart Tank / LaserJet, Canon MegaTank / imageCLASS, Brother InkBenefit / Láser, Xerox Phaser / VersaLink, Kyocera ECOSYS.
+
+### ¿Cómo solucionan el problema de drift en los mandos de PlayStation y Nintendo Switch?
+En mandos PlayStation DualSense (PS5) y DualShock 4 (PS4), se realiza desoldado y cambio de los potenciómetros analógicos o actualización a potenciómetros magnéticos Hall Effect con calibración milimétrica por software. En mandos Joy-Con de Nintendo Switch, se reemplaza el stick analógico por módulos magnéticos inmunes al desgaste físico.
+
+### ¿Qué tipo de mantenimiento se le aplica a la PlayStation 5?
+La PS5 requiere un mantenimiento técnico especializado: limpieza de disipador con remoción de pelusas y polvo, verificación y redistribución uniforme del metal líquido sobre el procesador APU (evitando fugas o puntos secos que causan sobrecalentamiento) y sustitución de almohadillas térmicas (thermal pads) en las memorias GDDR6.
+
+### ¿Reparan drones DJI caídos o con gimbal trabado?
+Sí. ITECH repara caídas de drones DJI: cambio de brazos fisurados, sustitución de cable plano (flex) del estabilizador gimbal, calibración por software de los ejes de rotación (yaw, pitch, roll), balanceo de motores brushless y reactivación de baterías LiPo bloqueadas.
+
+---
+
+## Directorio de Enlaces
+- Página Principal: https://einarnova.github.io/blog_itech/index.html
+- Laptops HP: https://einarnova.github.io/blog_itech/paginas/reparacion-laptops-hp.html
+- Laptops Dell: https://einarnova.github.io/blog_itech/paginas/reparacion-laptops-dell.html
+- Laptops Asus: https://einarnova.github.io/blog_itech/paginas/reparacion-laptops-asus.html
+- Laptops Lenovo: https://einarnova.github.io/blog_itech/paginas/reparacion-laptops-lenovo.html
+- Laptops Acer: https://einarnova.github.io/blog_itech/paginas/reparacion-laptops-acer.html
+- Laptops Apple: https://einarnova.github.io/blog_itech/paginas/reparacion-laptops-apple.html
+- Laptops MacBook: https://einarnova.github.io/blog_itech/paginas/reparacion-laptops-apple.html
+- Laptops MSI: https://einarnova.github.io/blog_itech/paginas/reparacion-laptops-msi.html
+- Laptops Surface: https://einarnova.github.io/blog_itech/paginas/reparacion-laptops-surface.html
+- Celulares Samsung: https://einarnova.github.io/blog_itech/paginas/reparacion-celulares-samsung.html
+- Celulares Xiaomi: https://einarnova.github.io/blog_itech/paginas/reparacion-celulares-xiaomi.html
+- Celulares iPhone: https://einarnova.github.io/blog_itech/paginas/reparacion-celulares-apple.html
+- Celulares Motorola: https://einarnova.github.io/blog_itech/paginas/reparacion-celulares-motorola.html
+- Celulares Honor: https://einarnova.github.io/blog_itech/paginas/reparacion-celulares-honor.html
+- Celulares Oppo: https://einarnova.github.io/blog_itech/paginas/reparacion-celulares-oppo.html
+- Celulares Vivo: https://einarnova.github.io/blog_itech/paginas/reparacion-celulares-vivo.html
+- Consola PlayStation: https://einarnova.github.io/blog_itech/paginas/reparacion-consolas-playstation.html
+- Consola Nintendo: https://einarnova.github.io/blog_itech/paginas/reparacion-consolas-nintendo.html
+- Consola Xbox: https://einarnova.github.io/blog_itech/paginas/reparacion-consolas-xbox.html
+- Drones DJI: https://einarnova.github.io/blog_itech/paginas/reparacion-drones-dji.html
+- Drones Autel: https://einarnova.github.io/blog_itech/paginas/reparacion-drones-autel.html
+- Drones Fimi: https://einarnova.github.io/blog_itech/paginas/reparacion-drones-fimi.html
+- Drones Hubsan: https://einarnova.github.io/blog_itech/paginas/reparacion-drones-hubsan.html
+- Drones Potensic: https://einarnova.github.io/blog_itech/paginas/reparacion-drones-potensic.html
+- Drones Syma: https://einarnova.github.io/blog_itech/paginas/reparacion-drones-syma.html
+- Impresoras Epson: https://einarnova.github.io/blog_itech/paginas/reparacion-impresoras-epson.html
+- Impresoras HP: https://einarnova.github.io/blog_itech/paginas/reparacion-impresoras-hp.html
+- Impresoras Canon: https://einarnova.github.io/blog_itech/paginas/reparacion-impresoras-canon.html
+- Impresoras Brother: https://einarnova.github.io/blog_itech/paginas/reparacion-impresoras-brother.html
+- Impresoras Xerox: https://einarnova.github.io/blog_itech/paginas/reparacion-impresoras-xerox.html
+- Impresoras Kyocera: https://einarnova.github.io/blog_itech/paginas/reparacion-impresoras-kyocera.html
+- Soporte Empresas Helpdesk B2B: https://einarnova.github.io/blog_itech/paginas/servicios-helpdesk.html
+
