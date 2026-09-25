@@ -3,11 +3,11 @@ document.addEventListener('DOMContentLoaded', () => {
     // 1. Mejorar dinámicamente los ítems de navegación rápida con badges numéricos modernos
     const navLinks = document.querySelectorAll('.sidebar-link');
     navLinks.forEach((link) => {
-        const text = link.textContent.trim();
+        const text = link.textContent.replace(/\s+/g, ' ').trim();
         const match = text.match(/^(\d+)[\.\s]+(.*)$/);
         if (match) {
             const num = match[1].padStart(2, '0');
-            const label = match[2];
+            const label = match[2].trim();
             link.innerHTML = `<span class="nav-badge">${num}</span><span class="nav-label">${label}</span>`;
         }
     });
@@ -45,10 +45,13 @@ document.addEventListener('DOMContentLoaded', () => {
 
         navLinks.forEach(link => {
             const targetId = link.getAttribute('href')?.replace('#', '');
+            const item = link.closest('.sidebar-item');
             if (targetId && targetId === currentSectionId) {
                 link.classList.add('active');
+                if (item) item.classList.add('active');
             } else {
                 link.classList.remove('active');
+                if (item) item.classList.remove('active');
             }
         });
     }
